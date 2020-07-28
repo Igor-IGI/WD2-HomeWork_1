@@ -23,6 +23,3 @@ db.pretty_print("""
     FROM Customer
     WHERE Country ="France"
 """)
-
-
-
